@@ -1,0 +1,14 @@
+C:\Users\kalle\source\repos\entity-framwork-intro\bin\Debug\net8.0\entity-framwork-intro.exe
+C:\Users\kalle\source\repos\entity-framwork-intro\bin\Debug\net8.0\entity-framwork-intro.deps.json
+C:\Users\kalle\source\repos\entity-framwork-intro\bin\Debug\net8.0\entity-framwork-intro.runtimeconfig.json
+C:\Users\kalle\source\repos\entity-framwork-intro\bin\Debug\net8.0\entity-framwork-intro.dll
+C:\Users\kalle\source\repos\entity-framwork-intro\bin\Debug\net8.0\entity-framwork-intro.pdb
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.AssemblyInfoInputs.cache
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.AssemblyInfo.cs
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.csproj.CoreCompileInputs.cache
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.dll
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\refint\entity-framwork-intro.dll
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.pdb
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\entity-framwork-intro.genruntimeconfig.cache
+C:\Users\kalle\source\repos\entity-framwork-intro\obj\Debug\net8.0\ref\entity-framwork-intro.dll
